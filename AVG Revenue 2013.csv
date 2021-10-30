@@ -1,0 +1,56 @@
+state_id,state_name,year_reported,Average Loan Investment Amount
+AK        ,Alaska - Anchorage                                                                                                                                    ,2013,0
+AL        ,Alabama                                                                                                                                               ,2013,1408017.4299999999
+AR        ,Arkansas                                                                                                                                              ,2013,962918.28000000003
+AZ        ,Arizona                                                                                                                                               ,2013,5584350.46
+CA        ,California                                                                                                                                            ,2013,917137.34999999998
+CO        ,Colorado                                                                                                                                              ,2013,3214766.0699999998
+DC        ,District of Columbia                                                                                                                                  ,2013,17856654.5
+DE        ,Delaware                                                                                                                                              ,2013,459912.20000000001
+FL        ,Florida                                                                                                                                               ,2013,6147134.8799999999
+GA        ,Georgia                                                                                                                                               ,2013,1519348.03
+GU        ,Guam                                                                                                                                                  ,2013,980602.18999999994
+HI        ,Hawaii                                                                                                                                                ,2013,30394.07
+IA        ,Iowa                                                                                                                                                  ,2013,914368.21999999997
+ID        ,Idaho                                                                                                                                                 ,2013,6201046.8399999999
+IL        ,Illinois                                                                                                                                              ,2013,7309382.25
+IN        ,Indiana                                                                                                                                               ,2013,1688887.6899999999
+KS        ,Kansas                                                                                                                                                ,2013,2139820.5299999998
+KY        ,Kentucky                                                                                                                                              ,2013,3789796.52
+LA        ,Louisiana                                                                                                                                             ,2013,1314945.9299999999
+MA        ,Massachusetts                                                                                                                                         ,2013,2106553.6299999999
+MD        ,Maryland                                                                                                                                              ,2013,4984371.5
+ME        ,Maine                                                                                                                                                 ,2013,987000
+MI        ,Michigan                                                                                                                                              ,2013,2212050.3300000001
+MN        ,Minnesota                                                                                                                                             ,2013,1531657.78
+MO        ,Missouri                                                                                                                                              ,2013,115230.77
+MS        ,Mississippi                                                                                                                                           ,2013,450978.65000000002
+MT        ,Montana                                                                                                                                               ,2013,2587714.1800000002
+NC        ,North Carolina                                                                                                                                        ,2013,3388655.1800000002
+ND        ,North Dakota - Carrington                                                                                                                             ,2013,1363165.3300000001
+ND        ,North Dakota - Mandan                                                                                                                                 ,2013,3945028.4300000002
+NE        ,Nebraska                                                                                                                                              ,2013,1679175
+NH        ,New Hampshire                                                                                                                                         ,2013,2665490.4100000001
+NJ        ,New Jersey                                                                                                                                            ,2013,3174834.5499999998
+NM        ,New Mexico                                                                                                                                            ,2013,727779
+NV        ,Nevada                                                                                                                                                ,2013,2666915.3300000001
+NY        ,New York                                                                                                                                              ,2013,339704.79999999999
+OH        ,Ohio                                                                                                                                                  ,2013,1052219.8300000001
+OK        ,Oklahoma                                                                                                                                              ,2013,105701.53999999999
+OR        ,Oregon                                                                                                                                                ,2013,2360921.9900000002
+PA        ,Pennsylvania                                                                                                                                          ,2013,3641097.77
+PR        ,Puerto Rico                                                                                                                                           ,2013,5266261.25
+RI        ,Rhode Island                                                                                                                                          ,2013,7407.4099999999999
+SC        ,South Carolina                                                                                                                                        ,2013,3599031.1299999999
+SD        ,South Dakota                                                                                                                                          ,2013,4267068.6299999999
+TN        ,Tennessee                                                                                                                                             ,2013,1986105.26
+TX        ,Texas                                                                                                                                                 ,2013,5781214.79
+UT        ,Utah                                                                                                                                                  ,2013,3422087.1400000001
+VA        ,Virginia                                                                                                                                              ,2013,1235246.3500000001
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2013,1816123.29
+VT        ,Vermont                                                                                                                                               ,2013,4218675.9800000004
+WA        ,Washington                                                                                                                                            ,2013,7846639.3600000003
+WI        ,Wisconsin                                                                                                                                             ,2013,811053.40000000002
+WV        ,West Virginia                                                                                                                                         ,2013,2465038.9500000002
+WY        ,Wyoming - Laramie                                                                                                                                     ,2013,2739672.1000000001
+CT        ,Connecticut                                                                                                                                           ,2013,0

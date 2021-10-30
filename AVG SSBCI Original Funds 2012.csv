@@ -1,0 +1,54 @@
+state_id,state_name,year_reported,Average Loan Investment Amount
+AL        ,Alabama                                                                                                                                               ,2012,253467.14999999999
+AR        ,Arkansas                                                                                                                                              ,2012,98395.339999999997
+AZ        ,Arizona                                                                                                                                               ,2012,297958.25
+CA        ,California                                                                                                                                            ,2012,7447.75
+CO        ,Colorado                                                                                                                                              ,2012,30925
+DE        ,Delaware                                                                                                                                              ,2012,101276.35000000001
+FL        ,Florida                                                                                                                                               ,2012,829138.63
+GA        ,Georgia                                                                                                                                               ,2012,102048.33
+GU        ,Guam                                                                                                                                                  ,2012,77906.009999999995
+HI        ,Hawaii                                                                                                                                                ,2012,150000
+IA        ,Iowa                                                                                                                                                  ,2012,282723.54999999999
+ID        ,Idaho                                                                                                                                                 ,2012,73856.970000000001
+IL        ,Illinois                                                                                                                                              ,2012,241919.72
+IN        ,Indiana                                                                                                                                               ,2012,54169.57
+KS        ,Kansas                                                                                                                                                ,2012,161968.01000000001
+KY        ,Kentucky                                                                                                                                              ,2012,126083.64
+LA        ,Louisiana                                                                                                                                             ,2012,86177.539999999994
+MA        ,Massachusetts                                                                                                                                         ,2012,24125.240000000002
+MD        ,Maryland                                                                                                                                              ,2012,196825
+ME        ,Maine                                                                                                                                                 ,2012,149093.14999999999
+MI        ,Michigan                                                                                                                                              ,2012,91252.300000000003
+MN        ,Minnesota                                                                                                                                             ,2012,38913.860000000001
+MO        ,Missouri                                                                                                                                              ,2012,178814.39999999999
+MS        ,Mississippi                                                                                                                                           ,2012,50982.720000000001
+MT        ,Montana                                                                                                                                               ,2012,232901.79999999999
+NC        ,North Carolina                                                                                                                                        ,2012,64766.410000000003
+ND        ,North Dakota - Mandan                                                                                                                                 ,2012,346150
+NE        ,Nebraska                                                                                                                                              ,2012,610000
+NH        ,New Hampshire                                                                                                                                         ,2012,44157.290000000001
+NJ        ,New Jersey                                                                                                                                            ,2012,573500
+NM        ,New Mexico                                                                                                                                            ,2012,614000
+NV        ,Nevada                                                                                                                                                ,2012,469000
+NY        ,New York                                                                                                                                              ,2012,9455.6499999999996
+OH        ,Ohio                                                                                                                                                  ,2012,22668.369999999999
+OK        ,Oklahoma                                                                                                                                              ,2012,259800
+OR        ,Oregon                                                                                                                                                ,2012,38391.220000000001
+PA        ,Pennsylvania                                                                                                                                          ,2012,70743.660000000003
+PR        ,Puerto Rico                                                                                                                                           ,2012,1612500
+RI        ,Rhode Island                                                                                                                                          ,2012,86122.929999999993
+SC        ,South Carolina                                                                                                                                        ,2012,140434.81
+SD        ,South Dakota                                                                                                                                          ,2012,576000
+TN        ,Tennessee                                                                                                                                             ,2012,375155.35999999999
+TX        ,Texas                                                                                                                                                 ,2012,1624999.71
+UT        ,Utah                                                                                                                                                  ,2012,60000
+VA        ,Virginia                                                                                                                                              ,2012,3438.0799999999999
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2012,42832.139999999999
+VT        ,Vermont                                                                                                                                               ,2012,43518.839999999997
+WA        ,Washington                                                                                                                                            ,2012,576010.69999999995
+WI        ,Wisconsin                                                                                                                                             ,2012,401500
+WV        ,West Virginia                                                                                                                                         ,2012,246088.23999999999
+AK        ,Alaska - Anchorage                                                                                                                                    ,2012,0
+CT        ,Connecticut                                                                                                                                           ,2012,0
+DC        ,District of Columbia                                                                                                                                  ,2012,0

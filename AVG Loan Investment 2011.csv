@@ -1,0 +1,52 @@
+state_id,state_name,year_reported,Average Loan Investment Amount
+AR        ,Arkansas                                                                                                                                              ,2011,987500
+CA        ,California                                                                                                                                            ,2011,72492.160000000003
+DE        ,Delaware                                                                                                                                              ,2011,105833.33
+HI        ,Hawaii                                                                                                                                                ,2011,300000
+ID        ,Idaho                                                                                                                                                 ,2011,93000
+IL        ,Illinois                                                                                                                                              ,2011,1565208
+IN        ,Indiana                                                                                                                                               ,2011,62500
+KS        ,Kansas                                                                                                                                                ,2011,3444474.3300000001
+LA        ,Louisiana                                                                                                                                             ,2011,1500000
+MD        ,Maryland                                                                                                                                              ,2011,3866666.6699999999
+ME        ,Maine                                                                                                                                                 ,2011,100000
+MI        ,Michigan                                                                                                                                              ,2011,636604.04000000004
+MO        ,Missouri                                                                                                                                              ,2011,1331746.03
+MT        ,Montana                                                                                                                                               ,2011,471392.67999999999
+NC        ,North Carolina                                                                                                                                        ,2011,82095.860000000001
+NH        ,New Hampshire                                                                                                                                         ,2011,143038.69
+OK        ,Oklahoma                                                                                                                                              ,2011,2200000
+RI        ,Rhode Island                                                                                                                                          ,2011,615000
+SC        ,South Carolina                                                                                                                                        ,2011,124585.8
+SD        ,South Dakota                                                                                                                                          ,2011,7250000
+VT        ,Vermont                                                                                                                                               ,2011,838724.78000000003
+WI        ,Wisconsin                                                                                                                                             ,2011,700000
+AK        ,Alaska - Anchorage                                                                                                                                    ,2011,0
+AL        ,Alabama                                                                                                                                               ,2011,0
+AZ        ,Arizona                                                                                                                                               ,2011,0
+CO        ,Colorado                                                                                                                                              ,2011,0
+CT        ,Connecticut                                                                                                                                           ,2011,0
+DC        ,District of Columbia                                                                                                                                  ,2011,0
+FL        ,Florida                                                                                                                                               ,2011,0
+GA        ,Georgia                                                                                                                                               ,2011,0
+GU        ,Guam                                                                                                                                                  ,2011,0
+IA        ,Iowa                                                                                                                                                  ,2011,0
+KY        ,Kentucky                                                                                                                                              ,2011,0
+MA        ,Massachusetts                                                                                                                                         ,2011,0
+MN        ,Minnesota                                                                                                                                             ,2011,0
+MP        ,Northern Mariana Islands                                                                                                                              ,2011,0
+NV        ,Nevada                                                                                                                                                ,2011,0
+NY        ,New York                                                                                                                                              ,2011,0
+OH        ,Ohio                                                                                                                                                  ,2011,0
+OR        ,Oregon                                                                                                                                                ,2011,0
+PA        ,Pennsylvania                                                                                                                                          ,2011,0
+PR        ,Puerto Rico                                                                                                                                           ,2011,0
+TN        ,Tennessee                                                                                                                                             ,2011,0
+TX        ,Texas                                                                                                                                                 ,2011,0
+UT        ,Utah                                                                                                                                                  ,2011,0
+VA        ,Virginia                                                                                                                                              ,2011,0
+VI        ,Virgin Islands                                                                                                                                        ,2011,0
+WA        ,Washington                                                                                                                                            ,2011,0
+WV        ,West Virginia                                                                                                                                         ,2011,0
+WY-L      ,Wyoming - Laramie                                                                                                                                     ,2011,0
+WY-L      ,Wyoming - Laramie                                                                                                                                     ,2011,0

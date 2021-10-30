@@ -1,0 +1,57 @@
+state_id,state_name,year_reported,Average Loan Investment Amount
+AK        ,Alaska - Anchorage                                                                                                                                    ,2015,40000
+AL        ,Alabama                                                                                                                                               ,2015,0
+AR        ,Arkansas                                                                                                                                              ,2015,200286.89000000001
+AZ        ,Arizona                                                                                                                                               ,2015,0
+CA        ,California                                                                                                                                            ,2015,0
+CO        ,Colorado                                                                                                                                              ,2015,0
+CT        ,Connecticut                                                                                                                                           ,2015,1263672.22
+DC        ,District of Columbia                                                                                                                                  ,2015,0
+DE        ,Delaware                                                                                                                                              ,2015,0
+FL        ,Florida                                                                                                                                               ,2015,0
+GA        ,Georgia                                                                                                                                               ,2015,0
+GU        ,Guam                                                                                                                                                  ,2015,0
+HI        ,Hawaii                                                                                                                                                ,2015,77931.160000000003
+IA        ,Iowa                                                                                                                                                  ,2015,0
+ID        ,Idaho                                                                                                                                                 ,2015,0
+IL        ,Illinois                                                                                                                                              ,2015,0
+IN        ,Indiana                                                                                                                                               ,2015,8823.5300000000007
+KS        ,Kansas                                                                                                                                                ,2015,0
+KY        ,Kentucky                                                                                                                                              ,2015,0
+LA        ,Louisiana                                                                                                                                             ,2015,0
+MA        ,Massachusetts                                                                                                                                         ,2015,0
+MD        ,Maryland                                                                                                                                              ,2015,6171058.8600000003
+ME        ,Maine                                                                                                                                                 ,2015,0
+MI        ,Michigan                                                                                                                                              ,2015,0
+MN        ,Minnesota                                                                                                                                             ,2015,0
+MO        ,Missouri                                                                                                                                              ,2015,49103.760000000002
+MP        ,Northern Mariana Islands                                                                                                                              ,2015,0
+MS        ,Mississippi                                                                                                                                           ,2015,0
+MT        ,Montana                                                                                                                                               ,2015,0
+NC        ,North Carolina                                                                                                                                        ,2015,17235.48
+ND        ,North Dakota - Carrington                                                                                                                             ,2015,0
+ND        ,North Dakota - Mandan                                                                                                                                 ,2015,23111.110000000001
+NE        ,Nebraska                                                                                                                                              ,2015,83875
+NH        ,New Hampshire                                                                                                                                         ,2015,0
+NJ        ,New Jersey                                                                                                                                            ,2015,0
+NM        ,New Mexico                                                                                                                                            ,2015,0
+NV        ,Nevada                                                                                                                                                ,2015,0
+NY        ,New York                                                                                                                                              ,2015,278710.96000000002
+OH        ,Ohio                                                                                                                                                  ,2015,4870.8299999999999
+OK        ,Oklahoma                                                                                                                                              ,2015,61538.459999999999
+OR        ,Oregon                                                                                                                                                ,2015,0
+PA        ,Pennsylvania                                                                                                                                          ,2015,401842.10999999999
+PR        ,Puerto Rico                                                                                                                                           ,2015,0
+RI        ,Rhode Island                                                                                                                                          ,2015,656333.32999999996
+SC        ,South Carolina                                                                                                                                        ,2015,92357.139999999999
+SD        ,South Dakota                                                                                                                                          ,2015,0
+TN        ,Tennessee                                                                                                                                             ,2015,622649.81999999995
+TX        ,Texas                                                                                                                                                 ,2015,466666.66999999998
+UT        ,Utah                                                                                                                                                  ,2015,0
+VA        ,Virginia                                                                                                                                              ,2015,208325.54999999999
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2015,0
+VT        ,Vermont                                                                                                                                               ,2015,0
+WA        ,Washington                                                                                                                                            ,2015,125729.96000000001
+WI        ,Wisconsin                                                                                                                                             ,2015,176041.67000000001
+WV        ,West Virginia                                                                                                                                         ,2015,156666.67000000001
+WY        ,Wyoming - Laramie                                                                                                                                     ,2015,0
