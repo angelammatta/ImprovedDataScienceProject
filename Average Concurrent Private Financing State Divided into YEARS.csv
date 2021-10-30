@@ -1,0 +1,350 @@
+state_id,state_name,Average Concurrent Private Financing 
+WA        ,Washington                                                                                                                                            ,313626.58000000002
+NC        ,North Carolina                                                                                                                                        ,55492.139999999999
+MN        ,Minnesota                                                                                                                                             ,335394.16999999998
+ND        ,North Dakota - Mandan                                                                                                                                 ,97976.330000000002
+MS        ,Mississippi                                                                                                                                           ,19501.470000000001
+VT        ,Vermont                                                                                                                                               ,0
+PA        ,Pennsylvania                                                                                                                                          ,80491.229999999996
+NJ        ,New Jersey                                                                                                                                            ,593834.47999999998
+LA        ,Louisiana                                                                                                                                             ,3705.8800000000001
+RI        ,Rhode Island                                                                                                                                          ,0
+MP        ,Northern Mariana Islands                                                                                                                              ,0
+AK        ,Alaska - Anchorage                                                                                                                                    ,15000
+CO        ,Colorado                                                                                                                                              ,153715.41
+NY        ,New York                                                                                                                                              ,7071.5900000000001
+VI        ,U.S. Virgin Islands                                                                                                                                   ,0
+TN        ,Tennessee                                                                                                                                             ,28087.299999999999
+AL        ,Alabama                                                                                                                                               ,0
+IN        ,Indiana                                                                                                                                               ,6246.7700000000004
+DC        ,District of Columbia                                                                                                                                  ,19848.48
+NE        ,Nebraska                                                                                                                                              ,144314.81
+VA        ,Virginia                                                                                                                                              ,0
+OH        ,Ohio                                                                                                                                                  ,934.65999999999997
+CT        ,Connecticut                                                                                                                                           ,0
+MO        ,Missouri                                                                                                                                              ,2741.9400000000001
+CA        ,California                                                                                                                                            ,4543.0799999999999
+FL        ,Florida                                                                                                                                               ,88964.350000000006
+HI        ,Hawaii                                                                                                                                                ,0
+ID        ,Idaho                                                                                                                                                 ,16492.060000000001
+GA        ,Georgia                                                                                                                                               ,25495.93
+NM        ,New Mexico                                                                                                                                            ,162882.35000000001
+IA        ,Iowa                                                                                                                                                  ,0
+ND        ,North Dakota - Carrington                                                                                                                             ,0
+SC        ,South Carolina                                                                                                                                        ,0
+NV        ,Nevada                                                                                                                                                ,163309.09
+OK        ,Oklahoma                                                                                                                                              ,0
+WI        ,Wisconsin                                                                                                                                             ,0
+PR        ,Puerto Rico                                                                                                                                           ,10000
+WV        ,West Virginia                                                                                                                                         ,8803.7800000000007
+MA        ,Massachusetts                                                                                                                                         ,0
+AZ        ,Arizona                                                                                                                                               ,143524.20999999999
+SD        ,South Dakota                                                                                                                                          ,0
+OR        ,Oregon                                                                                                                                                ,124831.69
+MI        ,Michigan                                                                                                                                              ,115637.77
+AR        ,Arkansas                                                                                                                                              ,28431.34
+ME        ,Maine                                                                                                                                                 ,12890.110000000001
+WY        ,Wyoming - Laramie                                                                                                                                     ,14168.24
+UT        ,Utah                                                                                                                                                  ,129868.42
+NH        ,New Hampshire                                                                                                                                         ,46737
+MT        ,Montana                                                                                                                                               ,1229685.6200000001
+GU        ,Guam                                                                                                                                                  ,0
+IL        ,Illinois                                                                                                                                              ,1190949.1499999999
+KY        ,Kentucky                                                                                                                                              ,175574.17000000001
+KS        ,Kansas                                                                                                                                                ,0
+MD        ,Maryland                                                                                                                                              ,245581.82000000001
+TX        ,Texas                                                                                                                                                 ,0
+DE        ,Delaware                                                                                                                                              ,551.17999999999995
+state_id,state_name,year_reported,Average Concurrent Private Financing
+AK        ,Alaska - Anchorage                                                                                                                                    ,2013,0
+AK        ,Alaska - Anchorage                                                                                                                                    ,2014,91666.669999999998
+AK        ,Alaska - Anchorage                                                                                                                                    ,2015,0
+AK        ,Alaska - Anchorage                                                                                                                                    ,2016,909.09000000000003
+AL        ,Alabama                                                                                                                                               ,2012,0
+AL        ,Alabama                                                                                                                                               ,2013,0
+AL        ,Alabama                                                                                                                                               ,2014,0
+AL        ,Alabama                                                                                                                                               ,2015,0
+AL        ,Alabama                                                                                                                                               ,2016,0
+AR        ,Arkansas                                                                                                                                              ,2011,0
+AR        ,Arkansas                                                                                                                                              ,2012,0
+AR        ,Arkansas                                                                                                                                              ,2013,0
+AR        ,Arkansas                                                                                                                                              ,2014,50731.709999999999
+AR        ,Arkansas                                                                                                                                              ,2015,53106.559999999998
+AR        ,Arkansas                                                                                                                                              ,2016,15000
+AZ        ,Arizona                                                                                                                                               ,2012,0
+AZ        ,Arizona                                                                                                                                               ,2013,0
+AZ        ,Arizona                                                                                                                                               ,2014,184720.94
+AZ        ,Arizona                                                                                                                                               ,2015,362000
+AZ        ,Arizona                                                                                                                                               ,2016,0
+CA        ,California                                                                                                                                            ,2011,0
+CA        ,California                                                                                                                                            ,2012,0
+CA        ,California                                                                                                                                            ,2013,0
+CA        ,California                                                                                                                                            ,2014,8670.8799999999992
+CA        ,California                                                                                                                                            ,2015,4307.5500000000002
+CA        ,California                                                                                                                                            ,2016,8860.0599999999995
+CO        ,Colorado                                                                                                                                              ,2012,0
+CO        ,Colorado                                                                                                                                              ,2013,571824.56000000006
+CO        ,Colorado                                                                                                                                              ,2014,56939.099999999999
+CO        ,Colorado                                                                                                                                              ,2015,0
+CO        ,Colorado                                                                                                                                              ,2016,0
+CT        ,Connecticut                                                                                                                                           ,2014,0
+CT        ,Connecticut                                                                                                                                           ,2015,0
+CT        ,Connecticut                                                                                                                                           ,2016,0
+DC        ,District of Columbia                                                                                                                                  ,2013,125000
+DC        ,District of Columbia                                                                                                                                  ,2014,25000
+DC        ,District of Columbia                                                                                                                                  ,2015,2307.6900000000001
+DC        ,District of Columbia                                                                                                                                  ,2016,0
+DE        ,Delaware                                                                                                                                              ,2011,0
+DE        ,Delaware                                                                                                                                              ,2012,0
+DE        ,Delaware                                                                                                                                              ,2013,2000
+DE        ,Delaware                                                                                                                                              ,2014,0
+DE        ,Delaware                                                                                                                                              ,2015,0
+DE        ,Delaware                                                                                                                                              ,2016,0
+FL        ,Florida                                                                                                                                               ,2012,0
+FL        ,Florida                                                                                                                                               ,2013,167336.19
+FL        ,Florida                                                                                                                                               ,2014,327851.29999999999
+FL        ,Florida                                                                                                                                               ,2015,0
+FL        ,Florida                                                                                                                                               ,2016,0
+GA        ,Georgia                                                                                                                                               ,2012,0
+GA        ,Georgia                                                                                                                                               ,2013,0
+GA        ,Georgia                                                                                                                                               ,2014,97517.559999999998
+GA        ,Georgia                                                                                                                                               ,2015,47743.269999999997
+GA        ,Georgia                                                                                                                                               ,2016,404.19
+GU        ,Guam                                                                                                                                                  ,2012,0
+GU        ,Guam                                                                                                                                                  ,2013,0
+GU        ,Guam                                                                                                                                                  ,2014,0
+GU        ,Guam                                                                                                                                                  ,2015,0
+GU        ,Guam                                                                                                                                                  ,2016,0
+HI        ,Hawaii                                                                                                                                                ,2011,0
+HI        ,Hawaii                                                                                                                                                ,2012,0
+HI        ,Hawaii                                                                                                                                                ,2013,0
+HI        ,Hawaii                                                                                                                                                ,2014,0
+HI        ,Hawaii                                                                                                                                                ,2015,0
+HI        ,Hawaii                                                                                                                                                ,2016,0
+IA        ,Iowa                                                                                                                                                  ,2012,0
+IA        ,Iowa                                                                                                                                                  ,2013,0
+IA        ,Iowa                                                                                                                                                  ,2015,0
+IA        ,Iowa                                                                                                                                                  ,2016,0
+ID        ,Idaho                                                                                                                                                 ,2011,0
+ID        ,Idaho                                                                                                                                                 ,2012,0
+ID        ,Idaho                                                                                                                                                 ,2013,0
+ID        ,Idaho                                                                                                                                                 ,2014,63287.669999999998
+ID        ,Idaho                                                                                                                                                 ,2015,14743.59
+ID        ,Idaho                                                                                                                                                 ,2016,0
+IL        ,Illinois                                                                                                                                              ,2011,0
+IL        ,Illinois                                                                                                                                              ,2012,1132318.03
+IL        ,Illinois                                                                                                                                              ,2013,1004697.15
+IL        ,Illinois                                                                                                                                              ,2014,1205276.6499999999
+IL        ,Illinois                                                                                                                                              ,2015,548507.53000000003
+IL        ,Illinois                                                                                                                                              ,2016,2165947.29
+IN        ,Indiana                                                                                                                                               ,2011,0
+IN        ,Indiana                                                                                                                                               ,2012,0
+IN        ,Indiana                                                                                                                                               ,2013,11162.92
+IN        ,Indiana                                                                                                                                               ,2014,0
+IN        ,Indiana                                                                                                                                               ,2015,18137.25
+IN        ,Indiana                                                                                                                                               ,2016,0
+KS        ,Kansas                                                                                                                                                ,2011,0
+KS        ,Kansas                                                                                                                                                ,2012,0
+KS        ,Kansas                                                                                                                                                ,2013,0
+KS        ,Kansas                                                                                                                                                ,2014,0
+KS        ,Kansas                                                                                                                                                ,2015,0
+KS        ,Kansas                                                                                                                                                ,2016,0
+KY        ,Kentucky                                                                                                                                              ,2012,0
+KY        ,Kentucky                                                                                                                                              ,2013,143670.23999999999
+KY        ,Kentucky                                                                                                                                              ,2014,243364.42999999999
+KY        ,Kentucky                                                                                                                                              ,2015,265946.09999999998
+KY        ,Kentucky                                                                                                                                              ,2016,85304.740000000005
+LA        ,Louisiana                                                                                                                                             ,2011,0
+LA        ,Louisiana                                                                                                                                             ,2012,0
+LA        ,Louisiana                                                                                                                                             ,2013,0
+LA        ,Louisiana                                                                                                                                             ,2014,0
+LA        ,Louisiana                                                                                                                                             ,2015,15000
+LA        ,Louisiana                                                                                                                                             ,2016,0
+MA        ,Massachusetts                                                                                                                                         ,2012,0
+MA        ,Massachusetts                                                                                                                                         ,2013,0
+MA        ,Massachusetts                                                                                                                                         ,2014,0
+MA        ,Massachusetts                                                                                                                                         ,2015,0
+MA        ,Massachusetts                                                                                                                                         ,2016,0
+MD        ,Maryland                                                                                                                                              ,2011,0
+MD        ,Maryland                                                                                                                                              ,2012,0
+MD        ,Maryland                                                                                                                                              ,2013,34250
+MD        ,Maryland                                                                                                                                              ,2014,1485555.5600000001
+MD        ,Maryland                                                                                                                                              ,2015,0
+MD        ,Maryland                                                                                                                                              ,2016,0
+ME        ,Maine                                                                                                                                                 ,2011,0
+ME        ,Maine                                                                                                                                                 ,2012,0
+ME        ,Maine                                                                                                                                                 ,2013,0
+ME        ,Maine                                                                                                                                                 ,2014,0
+ME        ,Maine                                                                                                                                                 ,2015,63591.199999999997
+ME        ,Maine                                                                                                                                                 ,2016,0
+MI        ,Michigan                                                                                                                                              ,2011,0
+MI        ,Michigan                                                                                                                                              ,2012,0
+MI        ,Michigan                                                                                                                                              ,2013,278430.83000000002
+MI        ,Michigan                                                                                                                                              ,2014,165988.89999999999
+MI        ,Michigan                                                                                                                                              ,2015,109351.77
+MI        ,Michigan                                                                                                                                              ,2016,96803.949999999997
+MN        ,Minnesota                                                                                                                                             ,2012,269898.28999999998
+MN        ,Minnesota                                                                                                                                             ,2013,636407.46999999997
+MN        ,Minnesota                                                                                                                                             ,2014,494150.35999999999
+MN        ,Minnesota                                                                                                                                             ,2015,191828.95000000001
+MN        ,Minnesota                                                                                                                                             ,2016,79046.75
+MO        ,Missouri                                                                                                                                              ,2011,0
+MO        ,Missouri                                                                                                                                              ,2012,0
+MO        ,Missouri                                                                                                                                              ,2013,0
+MO        ,Missouri                                                                                                                                              ,2014,0
+MO        ,Missouri                                                                                                                                              ,2015,15000
+MO        ,Missouri                                                                                                                                              ,2016,0
+MP        ,Northern Mariana Islands                                                                                                                              ,2014,0
+MP        ,Northern Mariana Islands                                                                                                                              ,2015,0
+MP        ,Northern Mariana Islands                                                                                                                              ,2016,0
+MS        ,Mississippi                                                                                                                                           ,2012,0
+MS        ,Mississippi                                                                                                                                           ,2013,42915.519999999997
+MS        ,Mississippi                                                                                                                                           ,2014,744.38
+MS        ,Mississippi                                                                                                                                           ,2015,20454.549999999999
+MS        ,Mississippi                                                                                                                                           ,2016,0
+MT        ,Montana                                                                                                                                               ,2011,0
+MT        ,Montana                                                                                                                                               ,2012,0
+MT        ,Montana                                                                                                                                               ,2013,2841407.1800000002
+MT        ,Montana                                                                                                                                               ,2014,34000
+MT        ,Montana                                                                                                                                               ,2015,15080401
+MT        ,Montana                                                                                                                                               ,2016,0
+NC        ,North Carolina                                                                                                                                        ,2011,0
+NC        ,North Carolina                                                                                                                                        ,2012,0
+NC        ,North Carolina                                                                                                                                        ,2013,64731.029999999999
+NC        ,North Carolina                                                                                                                                        ,2014,71339.509999999995
+NC        ,North Carolina                                                                                                                                        ,2015,104104.19
+NC        ,North Carolina                                                                                                                                        ,2016,121718.06
+ND        ,North Dakota - Carrington                                                                                                                             ,2013,0
+ND        ,North Dakota - Carrington                                                                                                                             ,2014,0
+ND        ,North Dakota - Carrington                                                                                                                             ,2015,0
+ND        ,North Dakota - Carrington                                                                                                                             ,2016,0
+ND        ,North Dakota - Mandan                                                                                                                                 ,2012,0
+ND        ,North Dakota - Mandan                                                                                                                                 ,2013,0
+ND        ,North Dakota - Mandan                                                                                                                                 ,2014,0
+ND        ,North Dakota - Mandan                                                                                                                                 ,2015,130249.56
+ND        ,North Dakota - Mandan                                                                                                                                 ,2016,627742.46999999997
+NE        ,Nebraska                                                                                                                                              ,2012,43000
+NE        ,Nebraska                                                                                                                                              ,2013,125000
+NE        ,Nebraska                                                                                                                                              ,2014,0
+NE        ,Nebraska                                                                                                                                              ,2015,53312.5
+NE        ,Nebraska                                                                                                                                              ,2016,381666.66999999998
+NH        ,New Hampshire                                                                                                                                         ,2011,0
+NH        ,New Hampshire                                                                                                                                         ,2012,0
+NH        ,New Hampshire                                                                                                                                         ,2013,107023.78999999999
+NH        ,New Hampshire                                                                                                                                         ,2014,36790.120000000003
+NH        ,New Hampshire                                                                                                                                         ,2015,9727.2700000000004
+NH        ,New Hampshire                                                                                                                                         ,2016,0
+NJ        ,New Jersey                                                                                                                                            ,2012,0
+NJ        ,New Jersey                                                                                                                                            ,2013,648115.84999999998
+NJ        ,New Jersey                                                                                                                                            ,2014,650366.67000000004
+NJ        ,New Jersey                                                                                                                                            ,2015,1014215.0699999999
+NJ        ,New Jersey                                                                                                                                            ,2016,0
+NM        ,New Mexico                                                                                                                                            ,2012,0
+NM        ,New Mexico                                                                                                                                            ,2013,461500
+NM        ,New Mexico                                                                                                                                            ,2014,0
+NM        ,New Mexico                                                                                                                                            ,2015,0
+NM        ,New Mexico                                                                                                                                            ,2016,0
+NV        ,Nevada                                                                                                                                                ,2012,0
+NV        ,Nevada                                                                                                                                                ,2013,0
+NV        ,Nevada                                                                                                                                                ,2014,225000
+NV        ,Nevada                                                                                                                                                ,2015,373800
+NV        ,Nevada                                                                                                                                                ,2016,0
+NY        ,New York                                                                                                                                              ,2012,0
+NY        ,New York                                                                                                                                              ,2013,38891.580000000002
+NY        ,New York                                                                                                                                              ,2014,5933.6400000000003
+NY        ,New York                                                                                                                                              ,2015,7560.71
+NY        ,New York                                                                                                                                              ,2016,2130.9000000000001
+OH        ,Ohio                                                                                                                                                  ,2012,0
+OH        ,Ohio                                                                                                                                                  ,2013,0
+OH        ,Ohio                                                                                                                                                  ,2014,0
+OH        ,Ohio                                                                                                                                                  ,2015,6866.6700000000001
+OH        ,Ohio                                                                                                                                                  ,2016,0
+OK        ,Oklahoma                                                                                                                                              ,2011,0
+OK        ,Oklahoma                                                                                                                                              ,2012,0
+OK        ,Oklahoma                                                                                                                                              ,2013,0
+OK        ,Oklahoma                                                                                                                                              ,2014,0
+OK        ,Oklahoma                                                                                                                                              ,2015,0
+OK        ,Oklahoma                                                                                                                                              ,2016,0
+OR        ,Oregon                                                                                                                                                ,2012,0
+OR        ,Oregon                                                                                                                                                ,2013,113518.39
+OR        ,Oregon                                                                                                                                                ,2014,171834.26999999999
+OR        ,Oregon                                                                                                                                                ,2015,277500
+OR        ,Oregon                                                                                                                                                ,2016,297322.28999999998
+PA        ,Pennsylvania                                                                                                                                          ,2012,86067.039999999994
+PA        ,Pennsylvania                                                                                                                                          ,2013,63298.540000000001
+PA        ,Pennsylvania                                                                                                                                          ,2014,108260.50999999999
+PA        ,Pennsylvania                                                                                                                                          ,2015,132583.47
+PA        ,Pennsylvania                                                                                                                                          ,2016,14440.27
+PR        ,Puerto Rico                                                                                                                                           ,2012,0
+PR        ,Puerto Rico                                                                                                                                           ,2013,100000
+PR        ,Puerto Rico                                                                                                                                           ,2014,0
+PR        ,Puerto Rico                                                                                                                                           ,2015,0
+PR        ,Puerto Rico                                                                                                                                           ,2016,0
+RI        ,Rhode Island                                                                                                                                          ,2011,0
+RI        ,Rhode Island                                                                                                                                          ,2012,0
+RI        ,Rhode Island                                                                                                                                          ,2013,0
+RI        ,Rhode Island                                                                                                                                          ,2015,0
+RI        ,Rhode Island                                                                                                                                          ,2016,0
+SC        ,South Carolina                                                                                                                                        ,2011,0
+SC        ,South Carolina                                                                                                                                        ,2012,0
+SC        ,South Carolina                                                                                                                                        ,2013,0
+SC        ,South Carolina                                                                                                                                        ,2014,0
+SC        ,South Carolina                                                                                                                                        ,2015,0
+SC        ,South Carolina                                                                                                                                        ,2016,0
+SD        ,South Dakota                                                                                                                                          ,2011,0
+SD        ,South Dakota                                                                                                                                          ,2012,0
+SD        ,South Dakota                                                                                                                                          ,2013,0
+SD        ,South Dakota                                                                                                                                          ,2014,0
+SD        ,South Dakota                                                                                                                                          ,2015,0
+SD        ,South Dakota                                                                                                                                          ,2016,0
+TN        ,Tennessee                                                                                                                                             ,2012,0
+TN        ,Tennessee                                                                                                                                             ,2013,0
+TN        ,Tennessee                                                                                                                                             ,2014,111267.88
+TN        ,Tennessee                                                                                                                                             ,2015,32011.369999999999
+TN        ,Tennessee                                                                                                                                             ,2016,0
+TX        ,Texas                                                                                                                                                 ,2012,0
+TX        ,Texas                                                                                                                                                 ,2013,0
+TX        ,Texas                                                                                                                                                 ,2014,0
+TX        ,Texas                                                                                                                                                 ,2015,0
+TX        ,Texas                                                                                                                                                 ,2016,0
+UT        ,Utah                                                                                                                                                  ,2012,0
+UT        ,Utah                                                                                                                                                  ,2013,352500
+UT        ,Utah                                                                                                                                                  ,2014,0
+UT        ,Utah                                                                                                                                                  ,2015,0
+UT        ,Utah                                                                                                                                                  ,2016,0
+VA        ,Virginia                                                                                                                                              ,2012,0
+VA        ,Virginia                                                                                                                                              ,2013,0
+VA        ,Virginia                                                                                                                                              ,2014,0
+VA        ,Virginia                                                                                                                                              ,2015,0
+VA        ,Virginia                                                                                                                                              ,2016,0
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2012,0
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2013,0
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2014,0
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2015,0
+VI        ,U.S. Virgin Islands                                                                                                                                   ,2016,0
+VT        ,Vermont                                                                                                                                               ,2011,0
+VT        ,Vermont                                                                                                                                               ,2012,0
+VT        ,Vermont                                                                                                                                               ,2013,0
+VT        ,Vermont                                                                                                                                               ,2014,0
+VT        ,Vermont                                                                                                                                               ,2015,0
+VT        ,Vermont                                                                                                                                               ,2016,0
+WA        ,Washington                                                                                                                                            ,2012,0
+WA        ,Washington                                                                                                                                            ,2013,808126.08999999997
+WA        ,Washington                                                                                                                                            ,2014,268079.75
+WA        ,Washington                                                                                                                                            ,2015,445352.19
+WA        ,Washington                                                                                                                                            ,2016,58553.07
+WI        ,Wisconsin                                                                                                                                             ,2011,0
+WI        ,Wisconsin                                                                                                                                             ,2012,0
+WI        ,Wisconsin                                                                                                                                             ,2013,0
+WI        ,Wisconsin                                                                                                                                             ,2014,0
+WI        ,Wisconsin                                                                                                                                             ,2015,0
+WI        ,Wisconsin                                                                                                                                             ,2016,0
+WV        ,West Virginia                                                                                                                                         ,2012,0
+WV        ,West Virginia                                                                                                                                         ,2013,10220.59
+WV        ,West Virginia                                                                                                                                         ,2014,32636.360000000001
+WV        ,West Virginia                                                                                                                                         ,2015,0
+WV        ,West Virginia                                                                                                                                         ,2016,428.56999999999999
+WY        ,Wyoming - Laramie                                                                                                                                     ,2013,0
+WY        ,Wyoming - Laramie                                                                                                                                     ,2014,0
+WY        ,Wyoming - Laramie                                                                                                                                     ,2015,24342.099999999999
+WY        ,Wyoming - Laramie                                                                                                                                     ,2016,23974.060000000001
