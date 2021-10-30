@@ -2,7 +2,7 @@ state_id,state_name,Average SSBCI Original Funds
 WA        ,Washington                                                                                                                                            ,313626.58000000002
 NC        ,North Carolina                                                                                                                                        ,55492.139999999999
 MN        ,Minnesota                                                                                                                                             ,335394.16999999998
-ND        ,North Dakota - Mandan                                                                                                                                 ,97976.330000000002
+ND        ,North Dakota(Mandan)                                                                                                                                 ,97976.330000000002
 MS        ,Mississippi                                                                                                                                           ,19501.470000000001
 VT        ,Vermont                                                                                                                                               ,0
 PA        ,Pennsylvania                                                                                                                                          ,80491.229999999996
@@ -10,7 +10,7 @@ NJ        ,New Jersey                                                           
 LA        ,Louisiana                                                                                                                                             ,3705.8800000000001
 RI        ,Rhode Island                                                                                                                                          ,0
 MP        ,Northern Mariana Islands                                                                                                                              ,0
-AK        ,Alaska - Anchorage                                                                                                                                    ,15000
+AK        ,Alaska(Anchorage)                                                                                                                                    ,15000
 CO        ,Colorado                                                                                                                                              ,153715.41
 NY        ,New York                                                                                                                                              ,7071.5900000000001
 VI        ,U.S. Virgin Islands                                                                                                                                   ,0
@@ -30,7 +30,7 @@ ID        ,Idaho                                                                
 GA        ,Georgia                                                                                                                                               ,25495.93
 NM        ,New Mexico                                                                                                                                            ,162882.35000000001
 IA        ,Iowa                                                                                                                                                  ,0
-ND        ,North Dakota - Carrington                                                                                                                             ,0
+ND        ,North Dakota(Carrington)                                                                                                                             ,0
 SC        ,South Carolina                                                                                                                                        ,0
 NV        ,Nevada                                                                                                                                                ,163309.09
 OK        ,Oklahoma                                                                                                                                              ,0
@@ -44,7 +44,7 @@ OR        ,Oregon                                                               
 MI        ,Michigan                                                                                                                                              ,115637.77
 AR        ,Arkansas                                                                                                                                              ,28431.34
 ME        ,Maine                                                                                                                                                 ,12890.110000000001
-WY        ,Wyoming - Laramie                                                                                                                                     ,14168.24
+WY        ,Wyoming(Laramie)                                                                                                                                     ,14168.24
 UT        ,Utah                                                                                                                                                  ,129868.42
 NH        ,New Hampshire                                                                                                                                         ,46737
 MT        ,Montana                                                                                                                                               ,1229685.6200000001
